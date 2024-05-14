@@ -1,3 +1,4 @@
 ﻿  main.cpp
-C:\Users\User\Desktop\code\CPP\2023 중간 실습\4\main.cpp(81): warning C4172: 지역 변수 또는 임시: out의 주소를 반환하고 있습니다.
-  4.vcxproj -> C:\Users\User\Desktop\code\CPP\2023 중간 실습\4\x64\Debug\4.exe
+  4.vcxproj -> C:\Users\Jun\Desktop\code\CPP\C-2023-\4\x64\Debug\4.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
