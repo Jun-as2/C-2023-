@@ -28,8 +28,8 @@ int main() {
 				_operand.erase(_operand.begin() + i);
 				_operand.erase(_operand.begin() + i);
 				_operator.erase(_operator.begin() + i);
-
 				_operand.insert(_operand.begin() + i, a * b);
+				i--;
 			}
 		}
 
@@ -41,6 +41,7 @@ int main() {
 				_operand.erase(_operand.begin() + i);
 				_operator.erase(_operator.begin() + i);
 				_operand.insert(_operand.begin() + i, a + b);
+				i--;
 			}
 		}
 
